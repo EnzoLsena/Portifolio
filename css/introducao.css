@@ -7,7 +7,9 @@
   gap: 100px;
   align-items: center;
 }
-
+#foto {
+  border-radius: 10px;
+}
 .introducao h1 {
   font-size: 4.5rem;
   line-height: 1.125;
