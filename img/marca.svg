@@ -1,0 +1,12 @@
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { 
+      font-family: system-ui; 
+      font-size: 4.5rem;
+     line-height: 1.125;
+      fill: #141414; 
+    }
+  </style>
+  <text x="0" y="70" class="text">Enzo Dev</text>
+</svg>
+
